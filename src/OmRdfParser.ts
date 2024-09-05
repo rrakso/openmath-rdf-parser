@@ -1,4 +1,4 @@
-import { QuadsAndPrefixes } from "Quand";
+import { QuadsAndPrefixes } from "./QuadsAndPrefixes";
 import { PrefixedFormula } from "./Formula";
 import { FormulaResult } from "./FormulaResult";
 import { allFromOpenMath, fromOpenMath } from "./fromOpenMath";

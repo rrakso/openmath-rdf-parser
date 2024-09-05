@@ -3,7 +3,7 @@ import { OperatorDictionary } from './OperatorDictionary';
 import { BlankNode, DataFactory, NamedNode, Quad, Store, Term, Writer } from 'n3';
 import { PrefixedFormula } from './Formula';
 import { IriVariableDictionary } from './IriVariableMap';
-import { QuadsAndPrefixes } from 'Quand';
+import { QuadsAndPrefixes } from './QuadsAndPrefixes';
 const { literal, blankNode, namedNode } = DataFactory;
 
 // Define base IRI
